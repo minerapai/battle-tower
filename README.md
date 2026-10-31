@@ -29,10 +29,10 @@
 | `/tower multi` | 코블몬 팀을 맺은 친구와 2:2 멀티 배틀 (/tower accept multi 로 이어서 진행) |
 | `/tower hard` | 하드 타워 도전 |
 | `/tower order` | 내 포켓몬 출전 순서 바꾸기 |
-| `/tower preview` | 다음 상대 미리 보기 |
+| `/tower preview <번호>` | (OP) 그 번째 배틀의 상대 팀 미리 만들어 보기 (테스트용) |
 | `/tower retire` | 도전 그만두기 |
 | `/tower shop (/타워상점)` | BP 상점 |
-| `/tower bp` | 내 BP 보기 (OP: /tower bp <플레이어> <양>) |
+| `/tower bp <플레이어> <양>` | (OP) BP 주기. 보유 BP는 배틀 타워 화면과 상점에 표시됩니다. |
 | `/tower top (/타워순위)` | 연승 순위 |
 | `/tower reload` | (OP) 설정 다시 읽기 |
 
