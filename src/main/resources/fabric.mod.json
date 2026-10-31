@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "battletower",
+  "version": "${version}",
+  "name": "Battle Tower",
+  "description": "Server side battle tower: /tower, single battles alone or 2:2 multi battles with a team mate against generated trainers, fixed level, win streaks with a boss every 7th battle, BP shop. Clients do not need this mod.",
+  "license": "MIT",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "kr.battletower.BattleTower"
+    ]
+  },
+  "mixins": [
+    "battletower.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "fabric-api": "*",
+    "cobblemon": ">=1.7.0",
+    "rctmod": "*",
+    "rctapi": "*"
+  }
+}
