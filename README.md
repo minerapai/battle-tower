@@ -37,6 +37,7 @@
 | `/tower reload` | (OP) 설정 다시 읽기 |
 
 (OP) 표시가 있는 명령어는 서버 관리자(OP)만 쓸 수 있습니다.
+괄호 안의 한글 명령어는 [Korean Commands](https://github.com/minerapai/korean-commands) 모드가 있을 때만 동작합니다. 없으면 영어 명령어를 쓰세요.
 
 ## 설정
 
