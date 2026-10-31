@@ -43,3 +43,7 @@ config 폴더의 배틀 타워 설정 파일에서 BP 보상(bpPerWin, bossBonus
 ```
 
 `build/libs/` 에 만들어진 jar 파일을 서버의 `mods` 폴더에 넣습니다.
+
+## 라이선스
+
+MIT License. 출처(minerapai)만 밝히면 누구나 자유롭게 쓰고 고치고 배포할 수 있습니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 보세요.
